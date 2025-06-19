@@ -7,6 +7,7 @@ public class PlayerControl : MonoBehaviour
     private Rigidbody rb;
     [SerializeField] private float moveSpeed = 5f;
     [SerializeField] private float jumpForce = 500f;
+
     void Start()
     {
         rb = GetComponent<Rigidbody>();

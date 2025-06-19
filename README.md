@@ -11,3 +11,18 @@ gevordende code gebruikt en naar mijn eigen code van vorige dingen gekeken om he
 
 ![animatie](gifs/BewegendeSpeler.gif)
 [code](m4prog/Assets/scripts/PlayerControl.cs)
+
+# Timed Muntjacht
+
+beginner code aangepast zodat je kan bewegen en coins op kan pakken ik 20 seconden tijd, coins tellen bij een score op en verdwijnen nadat ze opgepakt zijn
+
+![animatie](gifs/TimedMuntjacht.gif)
+[code](m4prog/Assets/scripts/GameManager.cs)
+
+# Start en Spel
+
+van beginner code afgegaan waardoor je van scene wisselt als je op spatie drukt naar een scene met een coin prefab
+
+![animatie](gifs/StartenSpel.gif)
+[code](m4prog/Assets/scripts/SceneSwitcher.cs)\
+[code](m4prog/Assets/scripts/PlayerControl2.cs)
