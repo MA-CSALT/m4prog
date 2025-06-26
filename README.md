@@ -26,3 +26,11 @@ van beginner code afgegaan waardoor je van scene wisselt als je op spatie drukt 
 ![animatie](gifs/StartenSpel.gif)
 [code](m4prog/Assets/scripts/SceneSwitcher.cs)\
 [code](m4prog/Assets/scripts/PlayerControl2.cs)
+
+# Gestructureerde Muntjager
+
+beginner code aangepast
+
+![animatie](gifs/GestructureerdeMuntjager.gif)
+[code](m4prog/Assets/scripts/PlayerMove.cs)
+[code](m4prog/Assets/scripts/ScoreManager.cs)

@@ -38,9 +38,10 @@ public class GameManager : MonoBehaviour
     void OnTriggerEnter(Collider other)
     {
 
-        
+       
         if (other.gameObject.name == "Coin")
          {
+
          
             score += 10;
           
